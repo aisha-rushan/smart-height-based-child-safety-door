@@ -185,7 +185,7 @@ According to the experimental evaluation:
 
 The complete technical details, methodology, experimental setup, results, and references are available in the project paper.
 
-"📄 Read the Project Paper" (documentation/conference-paper.pdf)
+!["📄 Read the Project Paper"](documentation/smart_door_conference_paper.pdf)
 
 👩‍💻 Team
 
