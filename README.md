@@ -193,6 +193,34 @@ Navin Kasim
 Department of Electronics and Communication Engineering
 Anjuman Institute of Technology & Management (AITM), Bhatkal
 
+
+💻 Source Code
+
+The source code used for the project is available in the "code" folder.
+
+- [Arduino_code.ino](code/arduino_code.ino) — Arduino code for the main door control and sensor system.
+- [ESP_code.ino](code/esp.ino) — ESP32 code used in the project.
+
 📚 Reference
 
-“Smart Height-Based Child Safety Door System Using IoT and Dual-Sensor Classification.”
+📚 References
+
+1. F. Aman and A. C., “Motion sensing and image capturing base smart door system on android platform,” in Proc. Int. Conf. Energy, Communication, Data Analytics and Soft Computing (ICECDS), 2017, pp. 2346–2350.
+
+2. P. B. V. Raja Rao, P. Lahari Manojna, V. S. Sonaleo, T. Hari Chandana, P. Sri Lakshmi, and V. Hemalatha, “Home security with IoT and ESP32-CAM – AI thinker module,” in Proc. Int. Conf. Cognitive Robotics and Intelligent Systems (ICC-ROBINS), 2024, pp. 710–714.
+
+3. R. Kakade, K. Wadetwar, K. Nimje, S. S. Badhiye, P. Borkar, and S. Shinde, “IoT-integrated door sensor solution for enhancing smart home security,” in Proc. 4th Int. Conf. Technological Advancements in Computational Sciences (ICTACS), Nov. 2024, pp. 913–917, doi: 10.1109/ICTACS62700.2024.10840511.
+
+4. M. Vijarania, V. Jaglan, and A. Sanjay, “Security surveillance and home automation system using IoT,” EAI Endorsed Transactions on Smart Cities, Aug. 2020, doi: 10.4108/eai.21-7-2020.165963.
+
+5. R. S. Nakandhra Kumar, S. Aravinth, and R. Venkatasamy, “Design and development of IoT-based smart door lock system,” in Proc. 3rd Int. Conf. Intelligent Computing, Instrumentation and Control Technologies (ICCICT), 2022, pp. 1525–1528.
+
+6. A. K. Singh, Laxmi, Shamith, H. Nagarathna, M. Keshav, and M. Krishna, “Design and implementation of smart door lock system using IoT,” in Proc. 8th Int. Conf. Computational System and Information Technology for Sustainable Solutions (CSITSS), 2024.
+
+7. P. Kumar, N. Subramanian, and K. Zhang, “SaViT: Technique for visualization of digital home safety,” in Proc. 8th IEEE/ACIS Int. Conf. Computer and Information Science (ICIS), Shanghai, China, 2009, pp. 1120–1125.
+
+8. S. Begum, P. M. R. Reddy, and R. K. Kodali, “Advancing safety: IoT-based multi-sensor system for real-time multiple hazards detection and alarming,” in Proc. 5th Int. Conf. Smart Electronics and Communication (ICOSEC), 2024.
+
+9. S. Sahu, R. Singh, P. Arya, and R. Nirala, “Smart home automation lighting system and smart door lock using Internet of Things,” in Proc. 4th Int. Conf. Advances in Computing, Communication Control and Networking (ICAC3N), 2022, pp. 1320–1325.
+
+10. S. R. K., G. S. Hegde, B. S. Sannakashappanavar, M. M., and M. Kumar, “Intelligent surveillance and protection system for farmlands from animals,” in Proc. IEEE Int. Conf. Contemporary Computing and Communications (InC4), 2024, pp. 1–8.
