@@ -86,7 +86,7 @@ Four sensors are arranged as:
 
 Sensor Arrangement
 
-![Sensor Arrangement](sensor_arrangement.jpg)
+![Sensor Arrangement](sensor_arrangement.jpeg)
 
 ⚙️ Working Principle
 
@@ -118,8 +118,6 @@ If the upper sensor is not triggered:
 
 🚪 Prototype
 
-"Prototype" (images/prototype.jpg)
-
 Two SG90 servo motors are used to provide balanced door movement.
 
 📡 IoT & Telegram Notification
@@ -146,7 +144,7 @@ Detection Accuracy
 
 Serial Monitor
 
-!["Serial Monitor"](Serial_monitor.PNG)
+!["Serial Monitor"](Serial_monitor.png)
 
 Adult Detection
 
