@@ -140,7 +140,7 @@ Overall| 100| 98| 98%
 
 Detection Accuracy
 
-["Detection Accuracy"](accuracy_chart.png.jpeg)
+!["Detection Accuracy"](accuracy_chart.png.jpeg)
 
 Serial Monitor
 
