@@ -44,7 +44,7 @@ Arduino UNO → ESP32-CAM → Wi-Fi → Telegram
 
 System Architecture
 
-"System Architecture" (images/system-architecture.png)
+!["System Architecture"](system_architecture.jpg)
 
 🔧 Hardware Components
 
@@ -68,7 +68,7 @@ Prototype Door/Frame| 1| Demonstration setup
 - Wi-Fi communication
 - Telegram Bot API
 
-📐 Height-Based Detection
+📐 ![Height-Based Detection](flowchart.jpg)
 
 The prototype uses two sensing levels:
 
@@ -86,13 +86,13 @@ Four sensors are arranged as:
 
 Sensor Arrangement
 
-"Sensor Arrangement" (images/sensor-arrangement.png)
+![Sensor Arrangement](sensor_arrangement.jpg)
 
 ⚙️ Working Principle
 
 The system determines the detected person's category based on which IR sensors are interrupted.
 
-Adult Detection
+![Adult Detection](adult_detected.png)
 
 When the upper sensor is triggered, the system classifies the person as an adult.
 
@@ -104,7 +104,7 @@ The Arduino:
 4. Captures an image.
 5. Sends the image through Telegram.
 
-Child Detection
+![Child Detection](child_detected.jpg)
 
 When only the lower sensor is triggered, the system waits for approximately 350 ms for an upper-sensor response.
 
@@ -128,7 +128,7 @@ The ESP32-CAM operates as an event-triggered camera.
 
 When a relevant detection event occurs, the Arduino triggers the ESP32-CAM. The camera captures a JPEG image and sends it through Wi-Fi to Telegram.
 
-"Telegram Notification" (images/telegram-notification.png)
+!["Telegram Notification"](Telegram-notification.jpeg)
 
 📊 Experimental Results
 
@@ -142,15 +142,15 @@ Overall| 100| 98| 98%
 
 Detection Accuracy
 
-"Detection Accuracy" (images/detection-accuracy.png)
+!["Detection Accuracy"](accuracy_chart.png.jpeg)
 
 Serial Monitor
 
-"Serial Monitor" (images/serial-monitor.png)
+!["Serial Monitor"](Serial_monitor.PNG)
 
 Adult Detection
 
-"Adult Detection" (images/adult-detection.png)
+!["Adult Detection"](images/adult-detection.png)
 
 ⚡ Performance
 
